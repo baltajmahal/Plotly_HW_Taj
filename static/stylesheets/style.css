@@ -1,0 +1,26 @@
+h1 { 
+	font-weight: bold;
+	
+	 }
+.jumbotron {
+	background-color: lightsalmon;
+	color: rgb(48, 105, 226);
+}
+
+#Ironbeard {
+	color: rgb(48, 105, 226);}
+
+#panelMan {
+	width: 250px; 
+	height: 250px;
+}
+
+
+
+.panel-primary>.panel-heading {
+  color: white;
+  font-weight: bold;
+  background-color: rgb(48, 105, 226);
+  border-color: rgb(48, 105, 226);
+  font-size: 18px;
+}
